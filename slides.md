@@ -36,7 +36,11 @@ transition: slide-up
 src: ./pages/03_microfrontends-definitions.md
 ---
 ---
+transition: slide-left
 src: ./pages/04_microfrontends-approaches.md
+---
+---
+src: ./pages/05_microfrontends-composition.md
 ---
 
 # What is Slidev?

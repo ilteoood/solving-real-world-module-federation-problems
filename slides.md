@@ -38,10 +38,20 @@ transition: slide-left
 src: ./pages/04_microfrontends-approaches.md
 ---
 ---
+transition: slide-down
 src: ./pages/05_microfrontends-composition.md
 ---
 ---
+transition: slide-down
 src: ./pages/06_chosen-approach.md
+---
+---
+transition: slide-up
+src: ./pages/07_module-federation.md
+---
+---
+transition: slide-up
+src: ./pages/08_example-structure-remote.md
 ---
 
 # What is Slidev?

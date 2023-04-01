@@ -40,6 +40,9 @@ src: ./pages/04_microfrontends-approaches.md
 ---
 src: ./pages/05_microfrontends-composition.md
 ---
+---
+src: ./pages/06_chosen-approach.md
+---
 
 # What is Slidev?
 

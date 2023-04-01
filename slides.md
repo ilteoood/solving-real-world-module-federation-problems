@@ -50,8 +50,11 @@ transition: slide-up
 src: ./pages/07_module-federation.md
 ---
 ---
-transition: slide-up
+transition: slide-left
 src: ./pages/08_example-structure-remote.md
+---
+---
+src: ./pages/09_example-structure-host.md
 ---
 
 # What is Slidev?

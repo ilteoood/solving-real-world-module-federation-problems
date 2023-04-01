@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2563" y1="2828" x2="2563" y2="4847.686" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(163, 232, 249, 1)"/>
+      <stop offset="1" style="stop-color: rgba(67, 208, 243, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="3622" y1="1330" x2="3622" y2="3788.75" id="gradient-3">
+      <stop offset="0" style="stop-color: rgba(249, 235, 143, 1)"/>
+      <stop offset="1" style="stop-color: rgba(244, 217, 46, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="747.5" y1="2080.289" x2="747.5" y2="3038.024" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(96, 113, 219, 1)"/>
+      <stop offset="1" style="stop-color: rgba(39, 57, 174, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2560" y1="275" x2="2560" y2="2287.686" id="gradient-2">
+      <stop offset="0" style="stop-color: rgba(243, 126, 90, 1)"/>
+      <stop offset="1" style="stop-color: rgba(215, 62, 16, 1)"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(0.1, 0, 0, -0.1, 0, 512)" fill="#000000" stroke="none">
+    <path d="M1808 4836 c-99 -36 -175 -102 -225 -198 l-28 -53 0 -745 0 -745 28 -53 c40 -76 97 -134 169 -173 l63 -34 188 -3 187 -4 0 334 c0 367 4 398 62 518 48 99 162 209 269 259 46 22 111 44 143 50 37 7 222 11 483 11 l424 0 -3 293 -3 292 -34 63 c-39 71 -107 138 -178 173 l-48 24 -730 2 c-584 2 -737 0 -767 -11z" style="fill: url(#gradient-1);"/>
+    <path d="M2700 3779 c-112 -22 -217 -107 -268 -217 l-27 -57 -3 -497 -3 -497 453 -3 c433 -4 456 -5 518 -26 184 -61 331 -209 392 -392 20 -60 22 -90 26 -412 l4 -348 347 0 c208 0 371 4 406 11 118 22 218 98 272 207 l28 57 0 955 0 955 -28 57 c-54 111 -152 185 -272 207 -72 13 -1777 13 -1845 0z" style="fill: url(#gradient-3);"/>
+    <path d="M525 3020 c-111 -37 -194 -116 -235 -226 -17 -47 -20 -78 -20 -228 0 -195 10 -244 63 -323 47 -67 119 -119 200 -144 59 -19 87 -21 240 -17 172 3 173 3 239 36 83 40 158 119 190 200 21 52 23 72 23 242 0 170 -2 190 -23 242 -32 81 -107 160 -190 200 l-67 33 -180 2 c-157 3 -188 0 -240 -17z" style="fill: url(#gradient-0);"/>
+    <path d="M1808 2276 c-99 -36 -175 -102 -225 -198 l-28 -53 0 -745 0 -745 28 -53 c40 -76 97 -134 169 -173 l63 -34 740 0 740 0 66 32 c79 39 140 102 177 181 l27 57 0 740 0 740 -34 63 c-39 71 -107 138 -178 173 l-48 24 -730 2 c-584 2 -737 0 -767 -11z" style="fill: url(#gradient-2);"/>
+  </g>
+</svg>

@@ -28,8 +28,6 @@ transition: slide-left
 ---
 transition: slide-up
 src: ./pages/02_microfrontends.md
-layout: center
-class: text-center
 ---
 ---
 transition: slide-up

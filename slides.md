@@ -58,6 +58,11 @@ src: ./pages/09_example-structure-host.md
 ---
 src: ./pages/10_example-running.md
 ---
+---
+layout: center
+class: text-center
+src: ./pages/11_problems.md
+---
 
 # What is Slidev?
 

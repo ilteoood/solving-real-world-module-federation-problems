@@ -41,7 +41,7 @@ export default AnotherButton
 
 <h4 class="text-center">Module federation configuration</h4>
 
-```ts
+```ts {all|2|5-6|9-11}
 const moduleFederationConfig = {
   name: 'moduleFederationTypescript',
   filename: 'remoteEntry.js',

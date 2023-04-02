@@ -1,6 +1,6 @@
 # Module federation basic concepts
 
-> **It allows the distribution of software at runtime, with additional support for fallbacks.**  
+> **It allows the distribution of software at runtime, with additional support for fallbacks and shared libraries.**  
 > **It works on both client and server.**  
 
 <div class="flex flex-col pt-16">

@@ -4,7 +4,7 @@
 
 <h4 class="text-center">Components imported and used</h4>
 
-```ts
+```ts {all|1-2,5-6}
 import { AnotherButton } from 'moduleFederationTypescript/anotherButton'
 import Button from 'moduleFederationTypescript/button'
 
@@ -22,7 +22,7 @@ export default Component
 
 <h4 class="text-center">Module federation configuration</h4>
 
-```ts
+```ts {all|5}
 const moduleFederationConfig = {
   name: 'moduleFederationHost',
   filename: 'remoteEntry.js',

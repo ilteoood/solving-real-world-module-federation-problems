@@ -1,6 +1,6 @@
 # Example - host
 
-<div class="flex items-center justify-center gap-8">
+<div class="flex items-center justify-center gap-2">
 
 <h4 class="text-center">Components imported and used</h4>
 
@@ -18,17 +18,16 @@ export default Component
 
 </div>
 
-<div class="flex items-center justify-center">
+<div class="flex items-center justify-center gap-6">
 
 <h4 class="text-center">Module federation configuration</h4>
 
 ```ts
 const moduleFederationConfig = {
-  name: 'moduleFederationTypescript',
+  name: 'moduleFederationHost',
   filename: 'remoteEntry.js',
-  exposes: {
-    './button': './src/components/button',
-    './anotherButton': './src/components/anotherButton'
+  remotes: {
+    'moduleFederationTypescript': 'moduleFederationTypescript@http://localhost:3000/remoteEntry.js',
   },
   shared: {
     ...deps,

@@ -1,3 +1,5 @@
 # TypeScript - problem
 
-<img class="flex justify-center items-center w-full" src="assets/ts-problem.png" />
+<div class="flex justify-center items-center h-90 w-full">
+<img src="assets/ts-problem.png" />
+</div>

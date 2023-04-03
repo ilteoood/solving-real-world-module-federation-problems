@@ -72,27 +72,24 @@ class: text-center
 src: ./pages/12_typescript.md
 ---
 ---
-layout: center
 transition: slide-up
-class: text-center
 src: ./pages/13_typescript-problem.md
 ---
 ---
-layout: center
 transition: slide-up
-class: text-center
 src: ./pages/14_typescript-solution-1.md
 ---
 ---
-layout: center
-transition: slide-up
-class: text-center
 src: ./pages/15_typescript-solution-2.md
 ---
 ---
-layout: center
-class: text-center
+transition: slide-up
 src: ./pages/16_typescript-solution-2-diagram.md
+---
+---
+layout: center
+transition: slide-down
+src: ./pages/17_tests.md
 ---
 
 # What is Slidev?

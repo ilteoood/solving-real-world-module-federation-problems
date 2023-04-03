@@ -1,21 +1,7 @@
 # TypeScript - solution 2
 
-#### moduleFederationTypescript.d.ts
-```ts
-interface AnotherButtonProps {
-    onClick: () => void;
-}
+<a href="https://github.com/ilteoood/solving-real-world-module-federation-problems" target="_blank" alt="GitHub" class="text-xl slidev-icon-btn opacity-100 !border-none !hover:text-white">
+    <carbon-logo-github /> ilteoood/native-federation-typescript
+</a>
 
-declare module "moduleFederationTypescript/anotherButton" {
-    export const AnotherButton: ({ onClick }: AnotherButtonProps) => JSX.Element;
-}
-
-interface ButtonProps {
-    onClick: () => void;
-}
-
-declare module "moduleFederationTypescript/button" {
-    const Button: ({ onClick }: ButtonProps) => JSX.Element;
-    export default Button;
-}
-```
+<img class="flex justify-center items-center w-full" src="assets/ts-structure.png" />

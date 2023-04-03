@@ -56,12 +56,19 @@ src: ./pages/08_example-structure-remote.md
 src: ./pages/09_example-structure-host.md
 ---
 ---
+transition: slide-up
 src: ./pages/10_example-running.md
 ---
 ---
 layout: center
+transition: slide-up
 class: text-center
 src: ./pages/11_problems.md
+---
+---
+layout: center
+class: text-center
+src: ./pages/12_typescript.md
 ---
 
 # What is Slidev?

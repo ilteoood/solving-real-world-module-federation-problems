@@ -67,7 +67,6 @@ src: ./pages/11_problems.md
 ---
 ---
 layout: center
-transition: slide-up
 class: text-center
 src: ./pages/12_typescript.md
 ---
@@ -83,13 +82,16 @@ src: ./pages/14_typescript-solution-1.md
 src: ./pages/15_typescript-solution-2.md
 ---
 ---
-transition: slide-up
+transition: slide-down
 src: ./pages/16_typescript-solution-2-diagram.md
 ---
 ---
 layout: center
-transition: slide-down
 src: ./pages/17_tests.md
+---
+---
+layout: center
+src: ./pages/18_tests-problem.md
 ---
 
 # What is Slidev?

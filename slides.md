@@ -90,8 +90,15 @@ layout: center
 src: ./pages/17_tests.md
 ---
 ---
-layout: center
+transition: slide-up
 src: ./pages/18_tests-problem.md
+---
+---
+src: ./pages/19_tests-solution-1.md
+---
+---
+transition: slide-up
+src: ./pages/20_tests-solution-1-problem.md
 ---
 
 # What is Slidev?

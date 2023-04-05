@@ -100,6 +100,9 @@ src: ./pages/19_tests-solution-1.md
 transition: slide-up
 src: ./pages/20_tests-solution-1-problem.md
 ---
+---
+src: ./pages/21_tests-solution-2.md
+---
 
 # What is Slidev?
 

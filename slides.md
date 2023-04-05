@@ -103,6 +103,9 @@ src: ./pages/20_tests-solution-1-problem.md
 ---
 src: ./pages/21_tests-solution-2.md
 ---
+---
+src: ./pages/22_tests-solution-2-diagram.md
+---
 
 # What is Slidev?
 

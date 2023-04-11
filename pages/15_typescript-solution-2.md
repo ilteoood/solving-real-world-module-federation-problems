@@ -5,7 +5,7 @@
 </a>
 
 <div class="flex justify-center items-center w-full">
-<img src="assets/ts-structure.png" />
+<img src="/assets/ts-structure.png" />
 </div>
 
 <style>

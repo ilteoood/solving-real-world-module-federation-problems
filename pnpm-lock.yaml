@@ -10,6 +10,9 @@ dependencies:
   '@slidev/theme-seriph':
     specifier: '*'
     version: 0.21.3
+  slidev-theme-nearform:
+    specifier: ^1.5.3
+    version: 1.5.3
 
 packages:
 
@@ -3519,6 +3522,16 @@ packages:
     dev: false
     optional: true
 
+  /slidev-theme-nearform@1.5.3:
+    resolution: {integrity: sha512-ZxjgbqS6II0Tkg5y4vHpAV5qpvfWDYrDXD1w0saKJ1Qz1Q7LCdmyS8Q3m2NP0LpaHt44FQOp5Tv5JK5wDdK8gA==}
+    engines: {node: '>=14.0.0', slidev: '>=0.19.3'}
+    dependencies:
+      '@slidev/types': 0.40.10
+      codemirror-theme-vars: 0.1.2
+      prism-theme-vars: 0.2.4
+      theme-vitesse: 0.6.4
+    dev: false
+
   /source-map-js@1.0.2:
     resolution: {integrity: sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==}
     engines: {node: '>=0.10.0'}
@@ -3636,6 +3649,11 @@ packages:
 
   /theme-vitesse@0.1.14:
     resolution: {integrity: sha512-b5s+Zpfaw5+djoCJ9AEbcTbpiTlLsOvGM9oblDmmWRGWNqg9oXtEYO/uwubwx77novHBI6zNuwZRHKNlAIBo4A==}
+    engines: {vscode: ^1.43.0}
+    dev: false
+
+  /theme-vitesse@0.6.4:
+    resolution: {integrity: sha512-uCn8emUUfEOKoukSZz0GqxB5q+gQ2wVEXx6+cCKWbXIjW56afkozVdosVSqXkRuML7i77tMmzMbvzcY/2uc01w==}
     engines: {vscode: ^1.43.0}
     dev: false
 

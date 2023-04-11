@@ -5,7 +5,7 @@
 </a>
 
 <div class="flex justify-center items-center w-full">
-<img class="pb-2" src="assets/tests-structure.png" />
+<img class="pb-2" src="/assets/tests-structure.png" />
 </div>
 
 #### anotherButton.mjs

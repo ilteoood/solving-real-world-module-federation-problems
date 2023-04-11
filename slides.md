@@ -104,15 +104,19 @@ src: ./pages/20_tests-solution-1-problem.md
 src: ./pages/21_tests-solution-2.md
 ---
 ---
-transition: slide-up
+transition: slide-down
 src: ./pages/22_tests-solution-2-diagram.md
 ---
 ---
-transition: slide-up
+transition: slide-down
 src: ./pages/23_bundlers.md
 ---
 ---
-transition: slide-up
+transition: slide-down
 layout: center
 src: ./pages/24_feedbacks.md
+---
+---
+layout: end
+src: ./pages/25_end.md
 ---

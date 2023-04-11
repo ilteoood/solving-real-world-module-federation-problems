@@ -111,3 +111,8 @@ src: ./pages/22_tests-solution-2-diagram.md
 transition: slide-up
 src: ./pages/23_bundlers.md
 ---
+---
+transition: slide-up
+layout: center
+src: ./pages/24_feedbacks.md
+---

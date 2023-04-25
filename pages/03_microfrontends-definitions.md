@@ -6,8 +6,8 @@
 > **An architectural style where independently deliverable frontend applications are composed into a greater whole**  
 > *Cam Jackson* - *Martin Fowler's blog*
 
-> **A pattern where web application UIs are composed from semi-independent fragments that can be built by different teams**  
-> *Bob Myers* - *TopTal's blog*
+> **The technical representation of a business subdomain that can be independently implemented using the same or different technologies**  
+> *Luca Mezzalira*
 
 > **An architectural approach that allows to brings freedom and indipendence to each team**  
 > *Matteo Pietro Dazzi*

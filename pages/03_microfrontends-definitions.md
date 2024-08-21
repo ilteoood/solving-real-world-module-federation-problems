@@ -9,7 +9,7 @@
 > **The technical representation of a business subdomain that can be independently implemented using the same or different technologies**  
 > *Luca Mezzalira*
 
-> **An architectural approach that allows to brings freedom and indipendence to each team**  
+> **An architectural approach that allows to brings freedom and independence to each team**  
 > *Matteo Pietro Dazzi*
 
 

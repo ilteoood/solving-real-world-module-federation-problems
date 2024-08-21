@@ -13,7 +13,7 @@ transition: slide-left
 
 # Solving real-world <br/> module federation <br/> problems 🚀
 ## Matteo Pietro Dazzi
-### Senior Software Developer @ [NearForm](https://www.nearform.com/)
+### Staff Developer @ [NearForm](https://www.nearform.com/)
 
 <div class="abs-br m-6 flex gap-2">
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
